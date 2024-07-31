@@ -28,21 +28,6 @@ header {
     padding: 10px 0;
 }
 
-header .logo {
-    display: flex;
-    align-items: center;
-}
-
-header .logo img {
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
-}
-
-header .logo span {
-    font-size: 1.5rem;
-}
-
 header nav ul {
     list-style: none;
     display: flex;
@@ -222,18 +207,6 @@ footer {
     background: #333;
     padding: 20px 0;
     color: #ffffff;
-}
-
-footer .footer-logo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-footer .footer-logo img {
-    width: 50px;
-    height: 50px;
-    margin-right: 10px;
 }
 
 footer nav ul {
